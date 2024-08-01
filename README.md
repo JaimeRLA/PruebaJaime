@@ -8,7 +8,7 @@ Este repositorio contiene el proyecto de la Práctica 2 entregable de la asignat
 
 El principal objetivo de este proyecto es aplicar técnicas de simulación y análisis de datos para entender qué estrategias de carrera podrían resultar en los mejores resultados, bajo diferentes condiciones. Esto incluye:
 - Simular múltiples escenarios de carrera (climatología cambiante y condiciones de circuito puntuales).
-- Analizar el impacto de distintas estrategias de pit stop y elecciones de compuestos.
+- Analizar el impacto de distintas strategias de pit stop y elecciones de compuestos.
 - Utilizar análisis de datos para evaluar el rendimiento de las estrategias simuladas.
 
 
